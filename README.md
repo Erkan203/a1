@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h1 { color:rgb(219, 17, 91);}
+        h2 { color:rgb(190, 17, 217);}
+        p { color:rgb(17, 27, 217);}
+        
+        .steps {background-color:yellow;}
+        .tables {background-color:pink;}
+        
+        #taginec {background-color:yellow;}
+        #fajitac {background-color:yellow;}
+        #tagine {background-color:pink;}
+        #fajita {background-color:pink;}
+        
+        
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Erkan's Big Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li id="taginec"><a href="#tagine">Tagine Chickpeas with Halloumi</a></li>
+            <li id="fajitac"><a href="#fajita">Chicken Fajita Traybake with Mexican Beanz</a></li>
+            
+        </ol>
+        
+        <h2 id="tagine">Tagine Chickpeas with Halloumi</h2>
+        
+        <img src="https://www.kasandbox.org/programming-images/avatars/spunky-sam-red.png" alt="tagine pic" width="130">
+        
+        <ul>
+            <li><em>Time:10 min.</em></li>
+            <li><em>Serves:4</em></li>
+        </ul>
+        
+        <table class="tables">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>couscous <br>
+hot vegetable stock<br>
+ harissa paste<br>
+ halloumi<br>
+  spring greens <br>
+ coriander finely chopped <br>
+ lemon <br>, 
+ zested <br>
+Heinz Creationz Tagine Chickpeas<br>
+</td>
+
+                   <td>200 gr <br>
+                   400ml <br>
+                   4 tbsp <br>
+                   150g <br>
+                   200g <br>
+                   1 bunch <br>
+                   1<br>
+                   <br>
+                   (415g)<br>
+                   
+                   </td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p class="steps"><strong>Step 1:</strong> Pour the stock over the couscous in a heatproof bowl and cover. Leave to one side for at least 5 minutes.<br>
+
+<strong>Step 2:</strong>Once the liquid has been absorbed, fluff up the grains with a fork then mix in half of the chopped coriander and some seasoning.<br>
+
+
+<strong>Step 3:</strong>In a separate bowl mix the rest of the finely chopped coriander with the lemon zest.<br>
+
+<strong>Step 4:</strong> Steam the greens for 2-3 minutes then dress with the lemon juice mix and some black pepper.<br>
+
+<strong>Step 5:</strong> Heat the Heinz Creationz Tagine Chickpeas as per package instructions.<br>
+
+<strong>Step 6:</strong> Heat a large non-stick frying pan with a drizzle of oil.<br>
+
+<strong>Step 7:</strong> Coat the halloumi slices in the harissa paste and fry in the pan for 30 seconds on each side.<br>
+
+<strong>Step 8:</strong> To serve divide the couscous, greens and Heinz Creationz Tagine Chickpeas between 4 bowls then top each one with a slice of halloumi, some coriander and lemon zest..<br>
+</p>
+        
+    <p><em>Source: <a target="_blank" href="http://www.foodnetwork.co.uk/recipes/tagine-chickpea-bowls-with-halloumi-and-coriander-couscous.html">foodnetwork.co.uk</a></em></p>
+    
+    <h2 id="fajita">Chicken Fajita Traybake with Mexican Beanz</h2>
+    
+    <img src="https://www.kasandbox.org/programming-images/avatars/spunky-sam-green.png" alt="fajita pic" width="130">
+        
+         <ul>
+            <li><em>Time:10 min.</em></li>
+            <li><em>Serves:4</em></li>
+        </ul>
+        
+        <table class="tables">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>ground cumin <br>
+hgarlic granules<br>
+ onion powder<br>
+ dried oregano<br>
+  ground black pepper <br>
+ olive oil <br>
+ chicken breast, cut into strips <br>, 
+ peppers, sliced <br>
+Heinz Creationz Mexican Beanz can <br>
+ red onion, cut into small wedges <br>
+Cheddar cheese <br>
+tortillas <br>
+avocado, sliced<br>
+Small handful coriander, chopped<br>
+lime, cut into wedges<br>
+tbsp sour cream (optional)<br>
+</td>
+
+                   <td>1 tsp <br>
+                   1 tsp <br>
+                   1 tsp <br>
+                   1 tsp <br>
+                   1 tsp <br>
+                   1 tsp <br>
+                   500 gr<br>
+                   2 <br>
+                   (415g)<br>
+                   1 <br>
+                   50 gr <br>
+                   4 <br>
+                   1 <br>
+                   <br>
+                   1 <br>
+                   4 tbsp<br>
+                   
+                   </td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p class="steps"><strong>Step 1:</strong> Preheat the oven to 200°C/180°C fan/gas mark 6.<br>
+
+<strong>Step 2:</strong>Mix all the spices and the olive oil in a large bowl.<br>
+
+
+<strong>Step 3:</strong>Add the chicken, pepper and onion and toss to cover with the spice mix.<br>
+
+<strong>Step 4:</strong> pread the chicken, peppers and onion out on a large baking tray and bake in the oven for 15 minutes.<br>
+
+<strong>Step 5:</strong> Wrap the tortillas in foil.<br>
+
+<strong>Step 6:</strong> Grate the cheese over the chicken then bake for a further 5 minutes along with the foil wrap of tortillas.<br>
+
+<strong>Step 7:</strong> Heat the Heinz Creationz Mexican Beanz as per package instructions in the microwave.<br>
+
+<strong>Step 8:</strong> Layer up your fajitas with the chicken and veg mix, avocado, lime, coriander, sour cream and top with a large dollop of Beanz.
+</p>
+        
+    <p><em>Source: <a target="_blank" href="http://www.foodnetwork.co.uk/recipes/chicken-fajita-traybake-with-mexican-beanz.html">foodnetwork.co.uk</a></em></p>
+    
+    </body>
+</html>
